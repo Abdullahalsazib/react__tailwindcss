@@ -22,7 +22,7 @@ function Navbar() {
           <li>
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/"
             >
               Home
             </a>
@@ -30,7 +30,7 @@ function Navbar() {
           <li>
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/blog"
             >
               Blog
             </a>
@@ -38,7 +38,7 @@ function Navbar() {
           <li>
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/about"
             >
               About
             </a>
@@ -46,7 +46,7 @@ function Navbar() {
           <li>
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/contact"
             >
               Contact
             </a>
@@ -54,7 +54,7 @@ function Navbar() {
           <li>
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/others"
             >
               Others
             </a>
@@ -69,7 +69,7 @@ function Navbar() {
           <li className=" flex items-center justify-center py-4">
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/"
             >
               Home
             </a>
@@ -77,7 +77,7 @@ function Navbar() {
           <li className=" flex items-center justify-center py-4">
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/blog"
             >
               Blog
             </a>
@@ -85,7 +85,7 @@ function Navbar() {
           <li className=" flex items-center justify-center py-4">
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="about"
             >
               About
             </a>
@@ -93,7 +93,7 @@ function Navbar() {
           <li className=" flex items-center justify-center py-4">
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/contact"
             >
               Contact
             </a>
@@ -101,7 +101,7 @@ function Navbar() {
           <li className=" flex items-center justify-center py-4">
             <a
               className="hover:text-yellow-200 px-4 rounded-md hover:bg-purple-800 py-1 hover:ring-2"
-              href="@"
+              href="/others"
             >
               Others
             </a>
