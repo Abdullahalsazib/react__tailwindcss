@@ -5,6 +5,7 @@ function Header() {
     <>
       <div className="bg-blue-400">
         <Navbar />
+        hello
       </div>
     </>
   );
