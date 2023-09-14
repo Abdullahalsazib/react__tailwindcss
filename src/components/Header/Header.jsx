@@ -1,11 +1,12 @@
+import Home from "../Home/Home";
 import Navbar from "./Navbar";
 
 function Header() {
   return (
     <>
-      <div className="bg-blue-400">
+      <div className="bg-gray-600">
         <Navbar />
-        hello
+        <Home/>
       </div>
     </>
   );
