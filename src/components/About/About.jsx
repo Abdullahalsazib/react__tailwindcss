@@ -1,5 +1,5 @@
 import React from "react";
-// import AboutImg from "../../Images/aboutpic.webp";
+import AboutImg from "../../Images/aboutpic.webp";
 
 export default function About() {
   return (
@@ -7,11 +7,11 @@ export default function About() {
       <div className=" w-full h-full p-20 bg-gray-700">
         <div className=" lg:flex items-center justify-center">
           <div className=" flex  rounded-lg  items-center justify-center">
-            {/* <img
+            <img
               className=" rounded-lg  shadow-lg shadow-slate-500   sm:w-[50%]"
               src={AboutImg}
               alt="404 img Err0r"
-            /> */}
+            />
           </div>
           <AboutText></AboutText>
         </div>
